@@ -1,0 +1,13 @@
+*.pyc
+
+data/2000_data.csv
+data/news_tensite_xml.dat
+data/simple.reg.txt
+data/*.model
+data/*.vector
+data/*.npy
+
+
+
+.idea/
+venv/
